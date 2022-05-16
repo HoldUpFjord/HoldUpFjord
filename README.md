@@ -1,3 +1,4 @@
+![banner](https://imgur.com/nOQbxMv.png)
 <h1 align="center">Hi 👋, I'm Dominick</h1>
 <h3 align="center">A full-stack developer that tries real hard.</h3>
 
