@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/jackmonaco1" target="blank"><img src="https://img.shields.io/twitter/follow/jackmonaco1?logo=twitter&style=for-the-badge" alt="jackmonaco1" /></a> </p>
 
-- 🔭 I’m currently working on **FireWatch**
+- 🔭 I’m currently working on **FireWatch**, a fullstack web-app that alerts users to proximal wildfires and current air conditions. 
 
 - 🌱 I’m currently learning **Bootstrap and Node!**
 
