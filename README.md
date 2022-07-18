@@ -1,6 +1,6 @@
 ![banner](https://imgur.com/nOQbxMv.png)
 <h1 align="center">Hi 👋, I'm Dominick!</h1>
-<h3 align="center">A full-stack developer interested in bridging my past experience in Conservation with my interest in tech! Sustainable and other green projects are something I am always interested in.</h3>
+<h3 align="center">A full-stack developer interested in bridging my past experience in Conservation with my interest in tech! Sustainable and other green projects are something I am always interested in!</h3>
 
 <p align="center"> <a href="https://twitter.com/jackmonaco1" target="blank"><img src="https://img.shields.io/twitter/follow/jackmonaco1?logo=twitter&style=for-the-badge" alt="jackmonaco1" /></a> </p>
 
