@@ -4,13 +4,13 @@
 
 <p align="center"> <a href="https://twitter.com/jackmonaco1" target="blank"><img src="https://img.shields.io/twitter/follow/jackmonaco1?logo=twitter&style=for-the-badge" alt="jackmonaco1" /></a> </p>
 
-- 🔭 I’m currently working on **Focus Fitness App**, a fullstack web-app that helps users keep track of their workout routine. 
+- 🔭 I’m currently working on **Conservation Dashboard**, a fullstack web-app that helps conservation corps keep track of ongoing projects.
 
-- 🌱 I’m currently brushing up on **React and Node!**
+- 🌱 I’m currently brushing up on **DSA and React!**
 
 - 👨‍💻 All of my projects are available at [https://inspire-web-design.netlify.app/](https://inspire-web-design.netlify.app/)
 
-- 📫 How to reach me **inspirewebdesign352@gmail.com**
+- 📫 How to reach me **dominick.monaco2@gmail.com**
 
 - ⚡ Fun fact **I've backpacked 2000 miles!**
 
@@ -22,7 +22,7 @@
 ---
 
 
-|      |          |  
+|      |          |    
 | ------------- |:-------------:| 
 | ![site gif](https://github.com/HoldUpFjord/barberShop/blob/master/assets/demoGif/ezgif.com-gif-maker.gif)    | <a href="url"><img src="https://github.com/HoldUpFjord/spotApiProject/blob/main/demoGif/spotifyApi.gif" align="left" height="250" width="550" ></a>
  |<h6 align="center">HTML5, CSS3, Javascript</h6> <p align="center"> Showcases a stylish barber site layout. </p> | <h6> HTML5, Boostrap, Fetch API, Asynchrous Javascript, CRUD</h6> <p>Taking Spotify's api allowing users to sort by Genre, popular playlists by tracks within that playlist.  
