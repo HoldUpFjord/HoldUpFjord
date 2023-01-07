@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently brushing up on **DSA and React!**
 
-- 👨‍💻 All of my projects are available at [https://inspire-web-design.netlify.app/](https://inspire-web-design.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dominickjmonaco.netlify.app/](https://dominickjmonaco.netlify.app/)
 
 - 📫 How to reach me **dominick.monaco2@gmail.com**
 
