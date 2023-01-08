@@ -24,9 +24,9 @@
 
 |      |          |    
 | ------------- |:-------------:| 
-| <a href="url"><img src="https://github.com/HoldUpFjord/ConservationHub/blob/244471bf1f39f0bb0d2eb571da0e1dc121fee7ff/conservationHubFlow.gif" align="left" height="250" width="450" ></a> | <a href="url"><img src="https://github.com/HoldUpFjord/spotApiProject/blob/main/demoGif/spotifyApi.gif" align="left" height="250" width="450" ></a>
+| <a href="url"><img src="https://github.com/HoldUpFjord/ConservationHub/blob/244471bf1f39f0bb0d2eb571da0e1dc121fee7ff/conservationHubFlow.gif" align="left" height="250" width="400" ></a> | <a href="url"><img src="https://github.com/HoldUpFjord/spotApiProject/blob/main/demoGif/spotifyApi.gif" align="left" height="250" width="400" ></a>
  |<h6 align="center">HTML5, TailWind CSS, Javascript, Node.js, Express, MondoDB</h6> <p align="center"> A fullstack app that aids Conservation Organizations with tracking and maintaing workflows of field techs </p> | <h6> HTML5, Boostrap, Fetch API, Asynchrous Javascript, CRUD</h6> <p>Taking Spotify's api allowing users to sort by Genre, popular playlists by tracks within that playlist.  
-| <a href="url"><img src="https://github.com/HoldUpFjord/rnrHomeServices/blob/90fa71a82e98cf4f9a69b4afc757cf1aa0ecff61/assets/demoGif/ezgif.com-gif-maker(1).gif" aling="center" height="250" width="450" ></a>     | ![site gif](https://github.com/HoldUpFjord/barberShop/blob/master/assets/demoGif/ezgif.com-gif-maker.gif)        |   
+| <a href="url"><img src="https://github.com/HoldUpFjord/rnrHomeServices/blob/90fa71a82e98cf4f9a69b4afc757cf1aa0ecff61/assets/demoGif/ezgif.com-gif-maker(1).gif" aling="center" height="250" width="400" ></a>     | ![site gif](https://github.com/HoldUpFjord/barberShop/blob/master/assets/demoGif/ezgif.com-gif-maker.gif)    |   
   | <h6 align="center">HTML5, CSS3, Javascript</h6> <p align="center">A statically hosted website for a local handyman. Very simple contact link and a carousel to showcase style of work done. |        <h6 align="center">HTML5, CSS3, Javascript</h6> <p align="center"> Showcases a stylish barber site layout. </p>  |
 
 
