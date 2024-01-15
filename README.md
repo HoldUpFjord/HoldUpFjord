@@ -4,11 +4,11 @@
 
 <p align="center"> <a href="https://twitter.com/jackmonaco1" target="blank"><img src="https://img.shields.io/twitter/follow/jackmonaco1?logo=twitter&style=for-the-badge" alt="jackmonaco1" /></a> </p>
 
-- 🔭 I’m currently working on **Conservation Dashboard**, a fullstack web-app that helps conservation corps keep track of ongoing projects.
+- 🔭 I’m currently building UWellness, an application to connect fitness coaches directly with thier clients. No gym required! 
 
-- 🌱 I’m currently brushing up on **DSA and React!**
+- 🌱 I’m currently investing time understanding the new App Router in Next.js and best practices for type-safety.**
 
-- 👨‍💻 All of my projects are available at [https://dominickjmonaco.netlify.app/](https://dominickjmonaco.netlify.app/)
+- 👨‍💻 I am porting over my portfolio to my new site at: [https://dominickjmona.co/projects](https://dominickjmona.co/projects)
 
 - 📫 How to reach me **dominick.monaco2@gmail.com**
 
